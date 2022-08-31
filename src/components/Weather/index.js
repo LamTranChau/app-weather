@@ -51,3 +51,32 @@ const Weather = () => {
 }
 
 export default Weather
+
+
+
+
+/*
+  v control
+  Git (cmd / sourcetree)
+  Github / Gitlab
+
+  Quy trinh` lam viec
+  Agile (Scrum / Kanban)
+  Jira / ClickUp / Asana
+
+  Javascrip (Typecript): Giỏi Javascrip, có thể code được tất cả. 
+
+  fontend
+  React 
+  React Router  : Điều hướng
+  Redux : Hỗ trợ truyền dữ liệu. 
+
+  CSS (Scss,Less) : style cho thẻ Dom
+  HTML5
+  API (GrapQL)
+
+  Luyện tập : HackerRank (Logic), Doulingo (tiếng anh).
+
+
+  Font end, Back end, mobile, dev Op, 
+*/
